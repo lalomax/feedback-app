@@ -67,12 +67,11 @@
 
 ![image](https://github.com/user-attachments/assets/001f95fb-65e1-4e77-a8b2-343afa51dfeb)
 
-The web page is a user feedback interface titled "FeedBack UI App." Users can rate their experience on a scale of 1 to 10, with a current average rating of 8 based on 4 reviews. The page contains review entries with scores of 4, 9, 9, 8, and 5. It also includes descriptive text, possibly as placeholders, labeled as "Lorem ipsum." Users likely submit their ratings using the "Send" button.
+The web page is an App for users to rate their experience on a scale of 1 to 10.
+
 * The web page is named "FeedBack UI App" for collecting user ratings and feedback.
 * It provides a scale of 1 to 10 for users to rate their experience.
-* User ratings submitted include scores of 4, 9, 9, 8, and 5.
-* There are 4 reviews in total, with an average rating of 8.
-* The page includes descriptive text, possibly for placeholders, labeled as "Lorem ipsum".
+* Calculate the average automatically.
 * The "Send" button is likely used to submit the completed ratings and feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
