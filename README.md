@@ -65,7 +65,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/user-attachments/assets/001f95fb-65e1-4e77-a8b2-343afa51dfeb)
+![image](https://github.com/user-attachments/assets/807e299c-c50c-4117-ae42-9a36bbc739e0)
+
 
 The web page is an App for users to rate their experience on a scale of 1 to 10.
 
@@ -161,7 +162,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
 
-Project Link: [https://github.com/lalomax/travel-journal](https://github.com/lalomax/switchmodes)
+Project Link: [https://github.com/lalomax/feedback-app](https://github.com/lalomax/feedback-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
