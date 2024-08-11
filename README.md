@@ -129,7 +129,7 @@ If it is not installed, [download](https://nodejs.org/en) and install it.
 - [ ] Multi-language Support
     
 
-See the [open issues](https://github.com/lalomax/digital_bussines-card/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lalomax/feedback-app/issues) for a full list of proposed features (and known issues).
 
 
 
