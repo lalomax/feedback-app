@@ -67,6 +67,7 @@
 
 ![image](https://github.com/user-attachments/assets/807e299c-c50c-4117-ae42-9a36bbc739e0)
 
+Thanks to: [Traversymedia](https://www.traversymedia.com/Modern-React-Front-To-Back-Course)
 
 The web page is an App for users to rate their experience on a scale of 1 to 10.
 
